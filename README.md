@@ -1,4 +1,4 @@
-# Cat Facts & Images App
+# Random Cat Facts & Images App
 
 An iOS app that displays a random cat fact and a random cat image on every tap of the screen. The app fetches data from two different APIs: Cat Fact API and Random Cat Image API.
 
