@@ -30,6 +30,7 @@
 		53F15D412CC179BC00DBCBBC /* CatImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F15D402CC179BC00DBCBBC /* CatImageService.swift */; };
 		53F15D432CC182D700DBCBBC /* NetworkTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F15D422CC182D700DBCBBC /* NetworkTestCase.swift */; };
 		53F15D452CC185DD00DBCBBC /* CatViewModelTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F15D442CC185DD00DBCBBC /* CatViewModelTestCase.swift */; };
+		C74149B22CC2342900F1BF05 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C74149B12CC2342900F1BF05 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		53F15D402CC179BC00DBCBBC /* CatImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatImageService.swift; sourceTree = "<group>"; };
 		53F15D422CC182D700DBCBBC /* NetworkTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkTestCase.swift; sourceTree = "<group>"; };
 		53F15D442CC185DD00DBCBBC /* CatViewModelTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatViewModelTestCase.swift; sourceTree = "<group>"; };
+		C74149B12CC2342900F1BF05 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		536ADC332CC16F5D00120DB1 = {
 			isa = PBXGroup;
 			children = (
+				C74149B12CC2342900F1BF05 /* README.md */,
 				536ADC3E2CC16F5D00120DB1 /* RandomCatImage */,
 				536ADC552CC16F5F00120DB1 /* RandomCatImageTests */,
 				536ADC5F2CC16F5F00120DB1 /* RandomCatImageUITests */,
@@ -331,6 +334,7 @@
 			files = (
 				536ADC4C2CC16F5F00120DB1 /* LaunchScreen.storyboard in Resources */,
 				536ADC492CC16F5F00120DB1 /* Assets.xcassets in Resources */,
+				C74149B22CC2342900F1BF05 /* README.md in Resources */,
 				536ADC472CC16F5D00120DB1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
